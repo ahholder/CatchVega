@@ -35,3 +35,9 @@ body {
     -webkit-user-select: none;
     -ms-user-select: none;
 }
+
+#hint {
+    background: black;
+    border: 3px solid black;
+    border-radius: 25px;
+}
